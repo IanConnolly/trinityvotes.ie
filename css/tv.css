@@ -10,8 +10,8 @@
     -moz-border-radius: 50%;
     width: 100%;
     height: auto;
-    padding: 10px;
-
+    padding-left: 15%;
+    padding-right: 15%;
 }
 
 @media all and (min-width: 1000px){
