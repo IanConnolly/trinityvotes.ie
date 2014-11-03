@@ -9,6 +9,10 @@ body {
     text-align: center;
 }
 
+.modal-title {
+    text-align: center;
+}
+
 .candidates-block {
     border-left: 1px solid #e2e2e2;
 }
@@ -22,6 +26,7 @@ body {
     height: auto;
     padding-left: 15%;
     padding-right: 15%;
+    cursor: pointer; cursor: hand;
 }
 
 @media all and (min-width: 1000px){
