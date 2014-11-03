@@ -13,3 +13,17 @@
     padding: 10px;
 
 }
+
+@media all and (min-width: 1000px){
+  #content{
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+}
+
+@media all and (min-width: 500px){
+  #content{
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+}
