@@ -1,7 +1,13 @@
 .content-text {
     font-family: 'Lato', sans-serif;
 }
+.name {
+    text-align: center;
+}
 
+.info-block {
+    border-right: 1px solid #e2e2e2;
+}
 .candidate-image {
     background-position: 50% 50%;
     background-repeat: no-repeat;
