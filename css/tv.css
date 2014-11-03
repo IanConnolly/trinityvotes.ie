@@ -9,8 +9,8 @@ body {
     text-align: center;
 }
 
-.info-block {
-    border-right: 1px solid #e2e2e2;
+.candidates-block {
+    border-left: 1px solid #e2e2e2;
 }
 .candidate-image {
     background-position: 50% 50%;
